@@ -134,8 +134,9 @@ Amazon-Sales-Analysis
 └── README.md
 ```
 
-**Note:** The full 19 MB dataset and the executed notebook with all 14 chart outputs are
-attached to the **Releases** section of this repository to keep the repo lightweight.
+**Note:** The full 19 MB dataset, the executed notebook with all 14 chart outputs, and the
+capstone project report (Word) are attached to the **Releases** section of this repository
+to keep the repo lightweight.
 
 **To run the notebook:** download `Amazon-Sale-Report.csv` from the
 [Releases](https://github.com/htharun034-cell/Amazon-Sales-Analysis/releases/tag/v1.0)
