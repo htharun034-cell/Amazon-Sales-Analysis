@@ -134,9 +134,14 @@ Amazon-Sales-Analysis
 └── README.md
 ```
 
-**Note:** The full 19 MB dataset (`Amazon Sale Report.csv`) and the executed notebook with all
-14 chart outputs (`amazon sales analysis (executed).ipynb`) are attached to the **Releases**
-section of this repository to keep the repo lightweight.
+**Note:** The full 19 MB dataset and the executed notebook with all 14 chart outputs are
+attached to the **Releases** section of this repository to keep the repo lightweight.
+
+**To run the notebook:** download `Amazon-Sale-Report.csv` from the
+[Releases](https://github.com/htharun034-cell/Amazon-Sales-Analysis/releases/tag/v1.0)
+page, rename it to `Amazon Sale Report.csv`, and place it in the repository root.
+`amazon.sales.analysis.executed.ipynb` (also in Releases) contains the fully executed
+notebook with all outputs for viewing without running any code.
 
 ---
 
